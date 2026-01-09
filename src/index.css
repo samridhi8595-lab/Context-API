@@ -9,12 +9,21 @@ body{
   height:100%;
   width:100%;
 }
-.nav{
+
+.light{
   display:flex;
   background-color: lightseagreen;
   padding: 14px 20px;
   align-items: center;
   justify-content:space-between;
+  
+}
+.dark{
+  display:flex;
+  padding: 14px 20px;
+  align-items: center;
+  justify-content:space-between;
+  background-color: darkslategray;
 }
 .nav2{
   display: flex;
